@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_archive</name>
+   <tag></tag>
+   <elementGuidId>b1ef6678-9115-42b6-b895-2ef32721c52a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-icon-button.mat-mdc-icon-button.mat-unthemed.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > mat-icon.mat-icon.notranslate.material-symbols-outlined.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Za Yar'])[1]/following::mat-icon[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Za Yar&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>9f3ca512-ed00-431a-85d9-cabf14e6cc34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>05aaba50-f3df-4420-9871-e8041f902b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-symbols-outlined mat-icon-no-color</value>
+      <webElementGuid>f17754f1-49a7-4403-9ddf-64d8521dd3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>670f1bca-5469-4fd0-8921-6ee3cabfd0f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>ab3fe0b1-b2ca-4fc2-b186-b17f69383dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>archive</value>
+      <webElementGuid>33ad169c-678f-4a3a-bdf1-f9f6e1b029aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-sidebar-menu[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container ng-star-inserted&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/app-document-types-table[1]/app-table[@class=&quot;ng-star-inserted&quot;]/ag-grid-angular[@class=&quot;grid ag-theme-material has-rows ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row-not-inline-editing ag-row ag-row-level-0 clickable ag-row-position-absolute ag-row-first ag-row-focus ag-row-hover&quot;]/div[@class=&quot;ag-cell-value ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-column-last container-flex-center&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-flex-right on-hover-visibility-show&quot;]/button[@class=&quot;mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-symbols-outlined mat-icon-no-color&quot;]</value>
+      <webElementGuid>aba0eedc-ad47-43eb-b413-ca0002db646d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Za Yar'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>90e6d0da-67dc-4b2e-9b95-be474d42f9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>c9452e98-8cd1-4038-9486-b05cb221f9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silent Batman'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>5bc81194-1fe4-4dfd-8aef-4ffabf74e533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::mat-icon[5]</value>
+      <webElementGuid>843e0dc5-7a25-462d-8834-0fcb3778e9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='archive']/parent::*</value>
+      <webElementGuid>45ad63ca-1380-4e24-84ba-d056db7c01eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/mat-icon</value>
+      <webElementGuid>f65a3b08-a860-4263-99d7-f1529bbfd5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'archive' or . = 'archive')]</value>
+      <webElementGuid>40c11935-b839-4b25-ae31-f215a45a2788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

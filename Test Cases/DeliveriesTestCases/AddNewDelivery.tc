@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will add a new delivery</description>
+   <name>AddNewDelivery</name>
+   <tag>@addDelivery</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46316a0f-aa2e-4911-b5af-348e697d85c7</testCaseGuid>
+</TestCaseEntity>

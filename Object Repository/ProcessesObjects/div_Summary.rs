@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Summary</name>
+   <tag></tag>
+   <elementGuidId>124fb743-776a-42c6-80ed-724ce859a34a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Summary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7fd794ae-272a-4843-ae26-1706ddfd41ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title</value>
+      <webElementGuid>583240e1-0d7c-4402-ba37-24284cfbcc94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Summary </value>
+      <webElementGuid>fefcbd84-e8ba-43be-a28e-51295775c9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted menu-collapsed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-collapsed-menu&quot;]/app-edit-process[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-set&quot;]/button[@class=&quot;tab ng-star-inserted&quot;]/div[@class=&quot;tab-title&quot;]</value>
+      <webElementGuid>307e8070-b980-4d7a-a024-f4ebd463ed6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/following::div[1]</value>
+      <webElementGuid>27c3a53d-3f89-4b34-8e7c-bc8cde95bc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificates'])[2]/following::div[2]</value>
+      <webElementGuid>4249a034-eecb-4c07-8c90-0a9629beafc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[3]/preceding::div[1]</value>
+      <webElementGuid>8a789c41-b3ed-407f-a57e-2fa6658656e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Summary']/parent::*</value>
+      <webElementGuid>bb02dac2-a609-4575-b250-c59da647b205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]/div</value>
+      <webElementGuid>dc61e4a4-489a-4857-8278-5e3fd5d3c4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Summary ' or . = ' Summary ')]</value>
+      <webElementGuid>afd5b0a2-5dd5-4410-84d4-652f253164da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

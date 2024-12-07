@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>52809206-c025-41ef-91f5-dfa38a3c1163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.filled.default.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='mdc-button__label' and text()='Save']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f82975f5-0fbb-4f86-902f-073758e809e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>3d3ab09b-d44f-4c7e-a423-246907c59604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save</value>
+      <webElementGuid>85c6d904-8c97-4786-a7dd-ed68eda11780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-slide-overlay-page[@class=&quot;ng-tns-c235479336-1 ng-star-inserted&quot;]/div[@class=&quot;slide-over ng-tns-c235479336-1&quot;]/div[@class=&quot;slide-content ng-tns-c235479336-1 ng-trigger ng-trigger-slideOver&quot;]/div[@class=&quot;slide-form-container ng-tns-c235479336-1&quot;]/app-delivery-overlay[@class=&quot;ng-star-inserted&quot;]/iov-slide-overlay-content[1]/section[@class=&quot;slide-overlay-content&quot;]/iov-slide-overlay-content-header[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;slide-overlay-content-header-container&quot;]/iov-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button filled default primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>1f4fcd29-5ae8-4c4e-86b4-5e9f5c7e93ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[5]</value>
+      <webElementGuid>95d3dddd-59bc-4f93-af1f-4026a048e795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery details'])[2]/following::span[7]</value>
+      <webElementGuid>15668dc0-6ef8-462e-bff5-fa556fd6f3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main information'])[1]/preceding::span[4]</value>
+      <webElementGuid>a905e9f6-7da5-454f-b05f-e38885957dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::span[4]</value>
+      <webElementGuid>deb7e655-0049-43c6-82c7-e0bbdca337c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>f56fbede-518e-4129-999b-bb6a2570d07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-button[2]/button/span[2]</value>
+      <webElementGuid>0cbd5043-8e85-4445-ad6a-de407814f89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Save' or . = ' Save')]</value>
+      <webElementGuid>b3ad9412-0435-4c44-9185-a3a7b6262ba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

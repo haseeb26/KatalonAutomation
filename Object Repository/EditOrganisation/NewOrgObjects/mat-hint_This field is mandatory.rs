@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-hint_This field is mandatory</name>
+   <tag></tag>
+   <elementGuidId>faa5ea2c-6943-4995-aa13-7f02f5c0cc47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-hint[text()=' This field is mandatory. ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-mdc-hint-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;This field is mandatory.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-hint</value>
+      <webElementGuid>36e9db8b-e4d3-48fc-a880-e6fd23edb4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-form-field-hint mat-mdc-form-field-bottom-align hint-error ng-star-inserted</value>
+      <webElementGuid>380056c3-2330-4a7d-bfa4-57b9fad82466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-mdc-hint-5</value>
+      <webElementGuid>dc5f51a9-0c51-4ef2-85b8-716a77ce6e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This field is mandatory.</value>
+      <webElementGuid>09339e12-7986-45eb-b209-cfe690a9017f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-hint-5&quot;)</value>
+      <webElementGuid>65289f12-3bee-4f79-89ee-0bc9fa956b5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-hint[@id='mat-mdc-hint-5']</value>
+      <webElementGuid>1a9cae71-db42-477f-9b9d-40407d6d93ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-0']/div/div/div/div/iov-input/div/iov-form-hint/mat-hint</value>
+      <webElementGuid>2c29ab9c-7317-4ef4-a71c-809e47e93ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::mat-hint[1]</value>
+      <webElementGuid>4ed8bd31-557c-4350-a214-5a08e0eab5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[2]/following::mat-hint[1]</value>
+      <webElementGuid>4087631d-ab6a-4643-90ee-7e6702db0590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/preceding::mat-hint[1]</value>
+      <webElementGuid>21b74c18-2fa4-4262-9115-a9f24ebd32f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='optional'])[1]/preceding::mat-hint[1]</value>
+      <webElementGuid>0f9f0229-a5e5-4cbd-9dc9-89d31614592d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This field is mandatory.']/parent::*</value>
+      <webElementGuid>6337062f-7a72-4ceb-a16a-70fc9df6109c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-hint</value>
+      <webElementGuid>5f5f9e98-83d9-4bac-8664-4954e3aee038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-hint[@id = 'mat-mdc-hint-5' and (text() = 'This field is mandatory.' or . = 'This field is mandatory.')]</value>
+      <webElementGuid>e5f865ea-171b-47ec-b93d-60315ace816c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

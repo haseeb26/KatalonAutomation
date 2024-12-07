@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Certificates</name>
+   <tag></tag>
+   <elementGuidId>8ecd477f-651b-4aa7-92e0-c344b12c82e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='mat-mdc-list-item-unscoped-content mdc-list-item__primary-text']//span[@class='menu-title' and text()='Certificates']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Certificates&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>795cff86-ba53-4e44-b027-a733ec2de43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title</value>
+      <webElementGuid>63250892-86a9-4c8d-a03d-98c776d16872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Certificates </value>
+      <webElementGuid>22c58293-93ca-4b62-8cab-96332a1e5981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-set&quot;]/button[@class=&quot;tab ng-star-inserted&quot;]/div[@class=&quot;tab-title&quot;]</value>
+      <webElementGuid>e2b4296a-319c-4d6f-906d-2e887a8c01cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[1]</value>
+      <webElementGuid>8b473588-38e4-4f05-981d-e8065c65be81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit organisation - EditedAutomationOrg'])[1]/following::div[3]</value>
+      <webElementGuid>197f1cee-4b60-4534-abde-c7734a52fa3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/preceding::div[1]</value>
+      <webElementGuid>e51f1af3-0cc2-4d69-bdb2-4186527121fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[2]/preceding::div[2]</value>
+      <webElementGuid>5a8d21d7-b8fa-4670-a6ef-368a19a864aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>44259a9c-fd5f-4b6d-bf4f-444f5f4ce041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Certificates ' or . = ' Certificates ')]</value>
+      <webElementGuid>f6094932-7222-4ef5-931b-eb0349ff8c2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

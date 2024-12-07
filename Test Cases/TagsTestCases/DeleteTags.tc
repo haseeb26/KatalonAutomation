@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We are creating a new material here</description>
+   <name>DeleteTags</name>
+   <tag>@addNewMaterial</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8577d44-7316-4492-b473-1c059a47b9c7</testCaseGuid>
+</TestCaseEntity>

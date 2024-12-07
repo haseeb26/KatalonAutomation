@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Details</name>
+   <tag></tag>
+   <elementGuidId>8c369ecb-b26f-4ce4-8457-977a1a7644ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-icon[@data-mat-icon-name='menu-info'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.tab.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Details&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>011a6ab6-505b-4f8f-920c-7e2cf61d0303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab ng-star-inserted</value>
+      <webElementGuid>7136a5aa-8d26-4f02-b00d-25f0e02613bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Details </value>
+      <webElementGuid>d23600b3-8c89-4880-acd7-2ea7be66c6f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-set&quot;]/button[@class=&quot;tab ng-star-inserted&quot;]</value>
+      <webElementGuid>be781524-bf91-4950-820b-d7002e2ba9ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit delivery - QA'])[1]/following::button[1]</value>
+      <webElementGuid>e92af2e8-4c4e-4839-b980-235e1de7f4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[2]/preceding::button[1]</value>
+      <webElementGuid>ca9d7876-41b1-4bd9-846e-a638487ddae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/button</value>
+      <webElementGuid>18e25a12-ed20-47ed-b60a-cf2dc9092e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Details ' or . = ' Details ')]</value>
+      <webElementGuid>ffba93fe-6aed-4dc0-b71e-54f537c1c004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

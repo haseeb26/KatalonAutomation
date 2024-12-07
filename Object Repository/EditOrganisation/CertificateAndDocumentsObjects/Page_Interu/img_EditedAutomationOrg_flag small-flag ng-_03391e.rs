@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_EditedAutomationOrg_flag small-flag ng-_03391e</name>
+   <tag></tag>
+   <elementGuidId>de9a867f-56e7-423d-b041-b9cfd95b6b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.flag.small-flag.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[text()=' EditedAutomationOrg '])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;flag&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>25dcc165-1732-4d44-a517-f157841bba53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>flag</value>
+      <webElementGuid>62dd5bf0-aaea-45e6-98c2-b89c12349468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flag small-flag ng-star-inserted</value>
+      <webElementGuid>6c37ebc2-fe92-4def-b931-ac5bc573728d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/flags/gb.svg</value>
+      <webElementGuid>304b46d6-2f7d-4416-913a-15a10e62bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-mdc-card mdc-card active-organisation ng-star-inserted&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;subtitle&quot;]/app-flag[1]/img[@class=&quot;flag small-flag ng-star-inserted&quot;]</value>
+      <webElementGuid>a68b0883-8a27-47dd-8b89-57864712e441</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='flag']</value>
+      <webElementGuid>a8d9c0b1-75cd-4647-9845-1ace832227bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-flag/img</value>
+      <webElementGuid>7cf7efdf-2c17-47cc-87a5-7a67f5a1df4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'flag' and @src = 'assets/images/flags/gb.svg']</value>
+      <webElementGuid>ab99f9af-6f3f-4981-98f5-993edc43c476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

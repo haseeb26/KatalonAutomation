@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_add</name>
+   <tag></tag>
+   <elementGuidId>37fc0fa2-9bd9-4b49-933b-64a6bbf65d71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.icon.medium.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mdc-button__label > mat-icon.mat-icon.notranslate.material-symbols-outlined.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add items'])[1]/following::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Add itemsaddclose$/ >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>81479250-8bbc-436f-bfd0-bb2f9328c6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bc8af90c-0fe7-4cba-903b-f0c3b07499f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-symbols-outlined mat-icon-no-color</value>
+      <webElementGuid>7fc81bf2-471a-46d9-866e-aa160c8a105e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bf37fd76-96c5-467c-a0ae-0798261fb69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>15769d65-1ebe-4149-b2f8-b6a51192553a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>9277ceb5-a4ae-4ced-a4ae-08aeeafcccc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-slide-overlay-page[@class=&quot;ng-tns-c235479336-1 ng-star-inserted&quot;]/div[@class=&quot;slide-over ng-tns-c235479336-1&quot;]/div[@class=&quot;slide-content ng-tns-c235479336-1 ng-trigger ng-trigger-slideOver&quot;]/div[@class=&quot;slide-form-container ng-tns-c235479336-1&quot;]/app-delivery-overlay[@class=&quot;ng-star-inserted&quot;]/iov-slide-overlay-content[1]/section[@class=&quot;slide-overlay-content-side-menu ng-star-inserted&quot;]/iov-right-side-panel[@class=&quot;overlay-right-panel ng-star-inserted&quot;]/div[@class=&quot;right-side-panel&quot;]/div[@class=&quot;top-content&quot;]/iov-button-group[@class=&quot;cg-12 fz-18 ng-star-inserted&quot;]/div[@class=&quot;buttons cg-12 fz-18 ng-star-inserted&quot;]/iov-button[1]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button icon medium primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-symbols-outlined mat-icon-no-color&quot;]</value>
+      <webElementGuid>c0dc50e1-febf-4ad2-9450-69d43579339a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add items'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>2c33e6e1-4084-4b79-88a5-c24d32b3aaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>31a8c3e3-b649-44e7-8e4e-131b218f4f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[4]/preceding::mat-icon[4]</value>
+      <webElementGuid>e27b6fe7-b833-40fe-a085-8abd166e6ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/iov-button-group/div/iov-button/button/span[2]/mat-icon</value>
+      <webElementGuid>7d15afe9-f6c6-4db2-a7d3-073642296397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>ffe1defa-6082-4dd8-bf93-5441de97abf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

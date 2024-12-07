@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Documents</name>
+   <tag></tag>
+   <elementGuidId>df42ddcb-228c-453c-b016-b80fe765b9d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificates'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Documents&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>652075a5-1f97-416b-a013-8961e01ea045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title</value>
+      <webElementGuid>ec1e1e9a-7ae9-4248-8742-a8432f1f86c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Documents </value>
+      <webElementGuid>24395f72-5a6e-466d-b2ba-90c9e925db2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted menu-collapsed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-collapsed-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-set&quot;]/button[@class=&quot;tab ng-star-inserted&quot;]/div[@class=&quot;tab-title&quot;]</value>
+      <webElementGuid>e14d9b68-7160-4d35-8a8e-cfe4d2c3f13a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificates'])[2]/following::div[1]</value>
+      <webElementGuid>bebab7c3-3d81-403a-95b4-c2026963c8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[2]</value>
+      <webElementGuid>554a378a-a260-4d9b-8b82-1c67f6e6f904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificates'])[3]/preceding::div[1]</value>
+      <webElementGuid>846b21f5-141a-4fb5-908c-03395e138842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div</value>
+      <webElementGuid>452a5452-f30d-495d-9a96-3fe7f502e841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Documents ' or . = ' Documents ')]</value>
+      <webElementGuid>8016dd02-54ac-4fd2-98a5-336b9c19f949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

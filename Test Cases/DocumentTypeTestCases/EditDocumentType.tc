@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We are creating a new material here</description>
+   <name>EditDocumentType</name>
+   <tag>@addNewMaterial</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5e17bfd-ceba-421b-972d-ad2597daaebf</testCaseGuid>
+</TestCaseEntity>

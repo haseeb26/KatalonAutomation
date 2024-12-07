@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_0Inbox</name>
+   <tag></tag>
+   <elementGuidId>0de079ac-cc4d-426b-a009-1d91b6e5c533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Processes'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Inbox&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>347c6e54-e291-46d3-a1a1-0b52517105f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-list-item-unscoped-content mdc-list-item__primary-text</value>
+      <webElementGuid>e3fe6715-fd0f-4754-b61e-617cb57f9e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0Inbox</value>
+      <webElementGuid>67b4179d-a0c8-4aa8-90ec-4e777713ee28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-sidebar-menu[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container ng-star-inserted&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c2033655494-5 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened mat-sidenav-fixed ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c2033655494-5&quot;]/mat-nav-list[@class=&quot;mat-mdc-nav-list mat-mdc-list-base mdc-list ng-tns-c2033655494-5&quot;]/iov-sidebar-item[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;mat-mdc-list-item mdc-list-item sidebar-item mat-mdc-list-item-single-line mdc-list-item--with-one-line&quot;]/span[@class=&quot;mdc-list-item__content&quot;]/span[@class=&quot;mat-mdc-list-item-unscoped-content mdc-list-item__primary-text&quot;]</value>
+      <webElementGuid>b37251f6-53ef-4d23-aa19-40cc9e925ed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processes'])[1]/following::span[2]</value>
+      <webElementGuid>861a5c18-024f-45d9-aeb9-d0808f2cf170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliveries'])[1]/following::span[6]</value>
+      <webElementGuid>3d4cfd0b-1d7e-470d-ac09-7eeab10bb0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::span[4]</value>
+      <webElementGuid>18747c45-8c87-4db9-a7d7-d95be8a6e5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-sidebar-item[9]/a/span/span</value>
+      <webElementGuid>9b6693a7-dfba-4085-9ef8-14642c67203d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0Inbox' or . = '0Inbox')]</value>
+      <webElementGuid>1a0a7355-7ae8-4e1b-bf82-878edb1ad615</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

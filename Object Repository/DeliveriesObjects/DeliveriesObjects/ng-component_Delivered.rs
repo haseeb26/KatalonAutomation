@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ng-component_Delivered</name>
+   <tag></tag>
+   <elementGuidId>a4347ad4-301a-4689-9612-5f9f293ad62f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ng-component[text()=' Delivered '])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Delivered&quot;i] >> ng-component</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ng-component</value>
+      <webElementGuid>b4b40711-1c7d-44c6-89dd-089e0bdaf291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>e77c8c7e-2cea-481d-87c0-dd531caa0798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivered</value>
+      <webElementGuid>2caaa3fd-c129-4ec1-9fc9-39f0c4c2d67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/app-deliveries-table[1]/app-table[@class=&quot;ng-star-inserted&quot;]/ag-grid-angular[@class=&quot;grid ag-theme-material grid-fixed-bottom-paginator has-rows ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row-not-inline-editing ag-row ag-row-level-0 clickable ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell-value ag-cell ag-cell-not-inline-editing ag-cell-normal-height&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>4db12979-f267-4474-b058-44c558efa9e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mike Dockrell'])[1]/following::ng-component[1]</value>
+      <webElementGuid>59f66abd-5e4e-45b9-a802-a6e67a1fcc53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noam Crawley'])[1]/following::ng-component[2]</value>
+      <webElementGuid>e754ed74-b631-4ed9-b736-ab4fbc7a7fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar 12, 2040'])[1]/preceding::ng-component[1]</value>
+      <webElementGuid>c262dcf8-a8eb-46d5-9938-8a1015fefac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 11, 2050'])[1]/preceding::ng-component[2]</value>
+      <webElementGuid>9a60df8d-6771-4c9f-978b-b5d662c58e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ng-component</value>
+      <webElementGuid>dd4d0653-e729-4a6c-97b9-9764a9455b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ng-component[(text() = 'Delivered' or . = 'Delivered')]</value>
+      <webElementGuid>6d853eef-6b41-4012-bc3b-859a0d4ef87d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

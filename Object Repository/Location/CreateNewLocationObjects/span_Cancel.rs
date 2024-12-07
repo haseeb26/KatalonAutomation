@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel</name>
+   <tag></tag>
+   <elementGuidId>86909879-ee8b-43ce-9074-f6339b0641b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.ghost.default.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-keyboard-focused > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/ng-component/form/mat-dialog-actions/iov-button-group/div/iov-button/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70c751b6-5ce6-455a-a35f-168464bb3b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>cae9ccad-9452-4a52-8313-2e140766d36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel </value>
+      <webElementGuid>0bd64085-3d8d-4fbc-8795-8ae4bcd5a6d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mat-mdc-dialog-inner-container mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/ng-component[@class=&quot;mat-mdc-dialog-component-host ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/mat-dialog-actions[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions&quot;]/iov-button-group[1]/div[@class=&quot;buttons ng-star-inserted&quot;]/iov-button[1]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button ghost default primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-keyboard-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>bcc8812e-bafb-4539-abed-79f5311b393b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/ng-component/form/mat-dialog-actions/iov-button-group/div/iov-button/button/span[2]</value>
+      <webElementGuid>be480f59-88de-4abf-861c-3ed160570aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[3]/following::span[2]</value>
+      <webElementGuid>a8924230-9046-4702-a0df-780b41627d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='optional'])[9]/following::span[2]</value>
+      <webElementGuid>25717d0d-6686-4a62-a2a3-d382d79e4096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>abb70f74-2620-4b1c-a5bf-f3d93a8fbd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-button-group/div/iov-button/button/span[2]</value>
+      <webElementGuid>abccc9f4-d53a-4d1a-8b9b-81ecfbe48486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Cancel ' or . = ' Cancel ')]</value>
+      <webElementGuid>2a6d56da-1fd1-4a3f-8763-f3f4c9d6975b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will create a new supply chain here</description>
+   <name>EditSupplyChain</name>
+   <tag>@supplyChain</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c17b758f-2159-45fd-844f-7db27963b723</testCaseGuid>
+</TestCaseEntity>

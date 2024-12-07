@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will edit and create new certificate here.
+We will also, edit documents here.</description>
+   <name>EditCertificateAndDocuments</name>
+   <tag>@certificate</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d2796b3-20e3-432b-a0d4-b5627a6fc19c</testCaseGuid>
+</TestCaseEntity>

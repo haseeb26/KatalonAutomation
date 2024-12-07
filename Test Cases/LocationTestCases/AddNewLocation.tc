@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will create a new location from the scratch here</description>
+   <name>AddNewLocation</name>
+   <tag>@NewLocation</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2862f299-c55b-4c6e-8929-31f07c6e3298</testCaseGuid>
+</TestCaseEntity>

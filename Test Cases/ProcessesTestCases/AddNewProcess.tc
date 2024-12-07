@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will create a new process and edit it.</description>
+   <name>AddNewProcess</name>
+   <tag>@addNewProcess</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91a686d3-0f38-4bda-94b3-4f10a7067c1b</testCaseGuid>
+</TestCaseEntity>

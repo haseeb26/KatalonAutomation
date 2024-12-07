@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will archive organisation in this test case.</description>
+   <name>ArchiveOrganisation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8618b69-f976-4c74-abf7-2307c2e52788</testCaseGuid>
+</TestCaseEntity>

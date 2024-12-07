@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We will create a new organisation</description>
+   <name>AddNewOrganisation</name>
+   <tag>@newOrg</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba16f435-0c98-48b5-aa25-9ece164234ba</testCaseGuid>
+</TestCaseEntity>

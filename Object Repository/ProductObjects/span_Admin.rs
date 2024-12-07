@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admin</name>
+   <tag></tag>
+   <elementGuidId>46905bf1-7de5-4bea-af86-38e602e12167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class='mat-mdc-list-item mdc-list-item sidebar-item mat-mdc-list-item-single-line mdc-list-item--with-one-line' and @href='/admin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e703f2a3-4971-4dce-840f-af6328ab15d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>a414346c-22b5-43ff-a0c7-c3b679262203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>1aee21d3-616d-4f4e-bdd8-65d7c43c1b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c2033655494-2 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened mat-sidenav-fixed ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c2033655494-2&quot;]/mat-nav-list[@class=&quot;mat-mdc-nav-list mat-mdc-list-base mdc-list ng-tns-c2033655494-2&quot;]/iov-sidebar-item[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;mat-mdc-list-item mdc-list-item sidebar-item mat-mdc-list-item-interactive mat-mdc-list-item-single-line mdc-list-item--with-one-line&quot;]/span[@class=&quot;mdc-list-item__content&quot;]/span[@class=&quot;mat-mdc-list-item-unscoped-content mdc-list-item__primary-text&quot;]/span[1]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>4b69eb5c-a849-48e0-a15b-c94ae400476b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processes'])[1]/following::span[4]</value>
+      <webElementGuid>e67c2edb-b289-4a76-ab94-f8f20d90c510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliveries'])[1]/following::span[8]</value>
+      <webElementGuid>2bebb087-32da-4bc3-b77f-b9ed08702264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ed'])[1]/preceding::span[5]</value>
+      <webElementGuid>1914048f-e16a-4611-8731-eff16f7eecb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EditedAutomationOrg'])[1]/preceding::span[5]</value>
+      <webElementGuid>f1f1852b-c25e-4687-9936-bd57a7408060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admin']/parent::*</value>
+      <webElementGuid>b85cb26b-57a8-4d7d-9649-309ee995cbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-sidebar-item[9]/a/span/span/span/span</value>
+      <webElementGuid>2e5e8df7-f69b-40c7-941d-f4f2a2931866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>26aa6dd4-294c-44d6-8cc4-b3b71e5b037f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

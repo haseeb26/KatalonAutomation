@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We are creating a new material here</description>
+   <name>AddNewProcessType</name>
+   <tag>@addNewMaterial</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa8e8638-a348-49e4-ae2d-d8ec7b68e730</testCaseGuid>
+</TestCaseEntity>

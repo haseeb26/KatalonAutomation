@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login_lds-ellipsis</name>
+   <tag></tag>
+   <elementGuidId>10a794fe-7cc8-4b30-9569-380358724a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.lds-ellipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.lds-ellipsis</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49aaf6ea-329b-46d4-8080-541fb9be37a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lds-ellipsis</value>
+      <webElementGuid>7c508611-1acd-4c38-8e9c-928bc905002b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-container ng-star-inserted&quot;]/div[@class=&quot;outer-container&quot;]/div[@class=&quot;container&quot;]/app-loader[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;loader-container on-table&quot;]/div[@class=&quot;lds-ellipsis&quot;]</value>
+      <webElementGuid>83fc03dd-0725-4bef-aed0-005a31e40087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[2]</value>
+      <webElementGuid>787500c0-2c21-4590-a896-ab89864bf257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-loader/div/div</value>
+      <webElementGuid>cc09fa4e-1d5d-41b3-9ff2-f2457db3cbf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>df6ffa70-fb13-43a9-b6d5-e5ef5fabaf7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.filled.default.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iov-button[2]/button/span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6377a316-0d12-49dc-958d-5f9daa06e82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>44924c6a-08fe-4e42-9433-e871bef6c07a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-slide-overlay-page[@class=&quot;ng-tns-c235479336-1 ng-star-inserted&quot;]/div[@class=&quot;slide-over ng-tns-c235479336-1&quot;]/div[@class=&quot;slide-content ng-tns-c235479336-1 ng-trigger ng-trigger-slideOver&quot;]/div[@class=&quot;slide-form-container ng-tns-c235479336-1&quot;]/app-delivery-overlay[@class=&quot;ng-star-inserted&quot;]/iov-slide-overlay-content[1]/section[@class=&quot;slide-overlay-content&quot;]/iov-slide-overlay-content-header[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;slide-overlay-content-header-container&quot;]/iov-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button filled default primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>0ffd9f4d-52b9-45c1-8451-a3a7666b9a60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-button[2]/button/span[4]</value>
+      <webElementGuid>8033c45d-84d7-4c96-b6dd-bdcd18e2db18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

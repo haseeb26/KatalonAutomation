@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We are going to create a new product here</description>
+   <name>AddNewProduct</name>
+   <tag>@addnewproduct</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>848a9375-1a37-4b54-b56e-c83f5b049ea8</testCaseGuid>
+</TestCaseEntity>

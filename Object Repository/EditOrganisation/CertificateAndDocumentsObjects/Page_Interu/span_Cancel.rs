@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel</name>
+   <tag></tag>
+   <elementGuidId>cba9def9-1fee-47fc-b711-7d989810f0c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.ghost.default.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-keyboard-focused > span.mdc-button__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button' and contains(span/mat-icon/text(), 'close')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acf7eaec-ef96-48fe-87ff-168d329518a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-button__label</value>
+      <webElementGuid>e7c2e36a-ea34-4f59-8325-7204c07846b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel </value>
+      <webElementGuid>a174c22a-c241-4968-aace-2e212e3cd57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted menu-collapsed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-collapsed-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-content&quot;]/iov-tab[3]/app-attachments[@class=&quot;ng-tns-c1757308655-39 ng-star-inserted&quot;]/div[@class=&quot;slide-over ng-tns-c1757308655-39 ng-trigger ng-trigger-slideOver&quot;]/app-upload-documents[@class=&quot;ng-tns-c1757308655-39 ng-star-inserted&quot;]/div[@class=&quot;slide-over-buttons ng-star-inserted&quot;]/app-upload-documents-buttons[1]/div[@class=&quot;upload-documents-buttons-container&quot;]/iov-button-group[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;buttons ng-star-inserted&quot;]/iov-button[1]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button ghost default primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-keyboard-focused&quot;]/span[@class=&quot;mdc-button__label&quot;]</value>
+      <webElementGuid>375f3242-31f8-4a52-9b3d-c50b10d0c83b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max size: 150MB'])[1]/following::span[2]</value>
+      <webElementGuid>be92be26-ee48-47aa-a0b6-ec09b87a891c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supported files: PDF, PNG, JPG, JPEG, DOC, DOCX, XLS, XLSX, PPT, PPTX, CSV'])[1]/following::span[2]</value>
+      <webElementGuid>3f8b0700-2a08-4793-b90e-212b1dd9a1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>887fd6f3-dcc7-4d34-aaa9-f9ecdb8c6d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-upload-documents-buttons/div/iov-button-group/div/iov-button/button/span[2]</value>
+      <webElementGuid>6cd5adb7-4288-4719-bd3f-70bdfe33f14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Cancel ' or . = ' Cancel ')]</value>
+      <webElementGuid>b326d7c6-c1e6-4582-977b-2bf1180c6655</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

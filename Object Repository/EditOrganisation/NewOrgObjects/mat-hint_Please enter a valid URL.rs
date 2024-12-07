@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-hint_Please enter a valid URL</name>
+   <tag></tag>
+   <elementGuidId>367acf32-a678-4e37-9379-3a3077f157b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-hint[text()=' Please enter a valid URL. ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-mdc-hint-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Please enter a valid URL.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-hint</value>
+      <webElementGuid>d774f23a-fb8a-4a30-bafd-f7a9bb2352f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-form-field-hint mat-mdc-form-field-bottom-align hint-error ng-star-inserted</value>
+      <webElementGuid>fb80efae-abba-49d5-875b-bb5693cfb73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-mdc-hint-6</value>
+      <webElementGuid>a4684ce1-fcb5-4a20-89a7-9a68319c5a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter a valid URL.</value>
+      <webElementGuid>df677810-144e-4825-8a1f-6c71f3703d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-hint-6&quot;)</value>
+      <webElementGuid>a047d353-1b1f-4309-82a1-b5ca2293e644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-hint[@id='mat-mdc-hint-6']</value>
+      <webElementGuid>8740b676-97f6-401e-8c05-5a2c6df316d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-0']/div/div/div/div[2]/iov-input/div/iov-form-hint/mat-hint</value>
+      <webElementGuid>e291cb3e-2e73-450e-8ef0-12da9227249d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/following::mat-hint[1]</value>
+      <webElementGuid>7f6f404e-35e4-47a6-a476-5edd4625805d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::mat-hint[1]</value>
+      <webElementGuid>f25e2b83-03ac-4618-980a-d0d9ee200982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headquarters'])[1]/preceding::mat-hint[1]</value>
+      <webElementGuid>6986ceb1-a2fe-4762-98ed-cd8640ebb8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::mat-hint[1]</value>
+      <webElementGuid>a61117f0-0cd5-49f9-8ce1-405849a0ba79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter a valid URL.']/parent::*</value>
+      <webElementGuid>66dae83c-bd41-42f7-8b57-e90077981dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-hint</value>
+      <webElementGuid>9914f000-da91-4ecc-a96e-af018ee662ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-hint[@id = 'mat-mdc-hint-6' and (text() = 'Please enter a valid URL.' or . = 'Please enter a valid URL.')]</value>
+      <webElementGuid>747b17cb-ac01-4251-89fe-03e377f0bb90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

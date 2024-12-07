@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EditedAutomationOrg</name>
+   <tag></tag>
+   <elementGuidId>627478dd-7227-4ebd-9953-218d3655b81c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.organisation-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='organisation-name' and text()=' EditedAutomationOrg'])[3]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;EditedAutomationOrg&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cf170b8-3bd8-4f7c-93c5-6366a7348db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>organisation-name</value>
+      <webElementGuid>14a6b8ce-d02f-460f-a91c-0a73c3c4463e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> EditedAutomationOrg</value>
+      <webElementGuid>d600c821-8486-48fb-8129-2b4686dca730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c1923052698-3&quot;]/button[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator organisation-button active ng-tns-c1923052698-3 ng-star-inserted cdk-focused cdk-keyboard-focused&quot;]/span[@class=&quot;mat-mdc-menu-item-text&quot;]/span[@class=&quot;organisation-name&quot;]</value>
+      <webElementGuid>0858ace9-2bdf-4296-ada2-955d7f90f4cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/button[2]/span/span</value>
+      <webElementGuid>93f37661-c017-49ee-9247-df3480c88ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add organisation'])[1]/following::span[2]</value>
+      <webElementGuid>0dce3102-625c-4afa-8693-a849060f5e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EditedAutomationOrg'])[4]/preceding::span[2]</value>
+      <webElementGuid>443ff1a5-3bfb-4530-a705-7ab892aa01c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EditedAutomationOrg'])[5]/preceding::span[4]</value>
+      <webElementGuid>68cddeae-fb11-4445-9ac2-50f2cd9014bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>e0761852-decf-4c21-882f-c05dab1a8064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' EditedAutomationOrg' or . = ' EditedAutomationOrg')]</value>
+      <webElementGuid>af1c97ce-0571-4641-9d85-7035fe2f6c68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

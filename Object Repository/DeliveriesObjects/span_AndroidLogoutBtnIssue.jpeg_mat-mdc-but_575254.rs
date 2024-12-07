@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AndroidLogoutBtnIssue.jpeg_mat-mdc-but_575254</name>
+   <tag></tag>
+   <elementGuidId>e05f64b0-3c17-43e9-b9ae-2c8fbd5c3ea7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-button.mdc-button--unelevated.mat-mdc-unelevated-button.iov-filled-button.icon.medium.primary.mat-primary.mat-mdc-button-base.ng-star-inserted.cdk-focused.cdk-keyboard-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iov-button/button/span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>button >> internal:has-text=/^close$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27ec5037-e242-40cf-b5d4-4d50c2acd061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>61912d3d-aaa0-4b82-a5e9-47f8386ab220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/iov-sidebar-menu[1]/div[@class=&quot;main-container ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content-with-expanded-menu&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-page-container&quot;]/div[@class=&quot;element-content&quot;]/iov-tab-set[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tab-content&quot;]/iov-tab[3]/app-attachments[@class=&quot;ng-tns-c1757308655-49 ng-star-inserted&quot;]/div[@class=&quot;right-side-panel-container ng-tns-c1757308655-49&quot;]/div[@class=&quot;content ng-tns-c1757308655-49&quot;]/app-document-list-items[@class=&quot;ng-tns-c1757308655-49 ng-star-inserted&quot;]/div[@class=&quot;full-width-items-container ng-star-inserted&quot;]/div[@class=&quot;item hover-visibility-container ng-star-inserted&quot;]/iov-document-content-card[1]/div[@class=&quot;container-flex-space-between&quot;]/iov-button-group[1]/div[@class=&quot;buttons ng-star-inserted&quot;]/iov-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mdc-button mdc-button--unelevated mat-mdc-unelevated-button iov-filled-button icon medium primary mat-primary mat-mdc-button-base ng-star-inserted cdk-focused cdk-keyboard-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>bb01d902-3e7a-4c41-b209-7cf2eaea7ceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-button/button/span[4]</value>
+      <webElementGuid>ebaa9588-77e9-48de-b796-f88e2d421c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

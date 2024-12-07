@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delivery details_slide-overlay-menu-ite_1f8b41</name>
+   <tag></tag>
+   <elementGuidId>37aabee5-6476-451d-aa23-965158f87c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery details'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40ee9d2d-e5df-42ac-bfa2-9eed7455383e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slide-overlay-menu-item-wrapper</value>
+      <webElementGuid>784832a0-da3a-49c5-9953-25f1bfe02d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/iov-slide-overlay-page[@class=&quot;ng-tns-c235479336-1 ng-star-inserted&quot;]/div[@class=&quot;slide-over ng-tns-c235479336-1&quot;]/div[@class=&quot;slide-content ng-tns-c235479336-1 ng-trigger ng-trigger-slideOver&quot;]/div[@class=&quot;slide-form-container ng-tns-c235479336-1&quot;]/app-delivery-overlay[@class=&quot;ng-star-inserted&quot;]/iov-slide-overlay-content[1]/section[@class=&quot;slide-overlay-menu&quot;]/button[@class=&quot;slide-overlay-menu-item ng-star-inserted&quot;]/div[@class=&quot;slide-overlay-menu-item-wrapper&quot;]</value>
+      <webElementGuid>d1909f45-9f0c-4131-8ae0-9343f9bba933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery details'])[1]/following::div[1]</value>
+      <webElementGuid>cdd291be-881e-4d19-a480-a921533ab5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[2]/preceding::div[1]</value>
+      <webElementGuid>e8da1ff5-2f31-468c-8378-e8fe5ec3eea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/preceding::div[2]</value>
+      <webElementGuid>ba3ad889-6f3c-4b7b-969e-df91e9229d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>e7173fdd-2303-4fa2-b08e-25f4c923416b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

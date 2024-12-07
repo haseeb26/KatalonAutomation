@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EditedAutomationOrg</name>
+   <tag></tag>
+   <elementGuidId>bdda60bc-eb5f-44ac-82ce-d5234abf4b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.organisation-name.break-word</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-drop-list-0']/iov-draggable-card/div/iov-location-card-content/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;EditedAutomationOrg&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab489893-7ba6-48fa-bcb9-62c63ee3b191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>organisation-name break-word</value>
+      <webElementGuid>effa1762-6cd4-47b7-a2d5-746731a38a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EditedAutomationOrg</value>
+      <webElementGuid>5f7fd9ed-d790-4e90-88c5-e304d2a0d178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/iov-draggable-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cdk-drag main-container ng-star-inserted&quot;]/iov-location-card-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-flex-space-between&quot;]/div[@class=&quot;left-content&quot;]/div[@class=&quot;organisation-name break-word&quot;]</value>
+      <webElementGuid>062c4d43-5f59-4d40-be4b-40fd511191f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-drop-list-0']/iov-draggable-card/div/iov-location-card-content/div/div/div[2]</value>
+      <webElementGuid>88faaca8-d6f0-4614-aa79-85f5462b3308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add all'])[1]/following::div[7]</value>
+      <webElementGuid>a3a692c2-f5be-4f96-9499-83e15b79a107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locations'])[2]/following::div[8]</value>
+      <webElementGuid>8310d237-ad47-4906-9687-370e07ce5767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Kingdom'])[1]/preceding::div[2]</value>
+      <webElementGuid>6741e250-0c70-49b5-b9b9-9497a76aaf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EditedAutomationOrg'])[3]/preceding::div[6]</value>
+      <webElementGuid>ac14f5bb-a2a2-4021-8ea4-10451796a104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iov-location-card-content/div/div/div[2]</value>
+      <webElementGuid>1b5e964e-bf4c-4abe-866b-3bedd41fdedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EditedAutomationOrg' or . = 'EditedAutomationOrg')]</value>
+      <webElementGuid>00b88985-176b-4b4d-b088-824804269261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

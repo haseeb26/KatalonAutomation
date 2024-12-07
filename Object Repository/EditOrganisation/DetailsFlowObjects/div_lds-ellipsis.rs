@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_lds-ellipsis</name>
+   <tag></tag>
+   <elementGuidId>368475f2-c3cf-4bfc-8186-4cc32235f692</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>260ecf6b-ac33-4c3a-843c-896add3daf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lds-ellipsis</value>
+      <webElementGuid>dc0366f4-f070-4d4d-b53b-4be6ddb59422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;auth-container ng-star-inserted&quot;]/div[@class=&quot;outer-container&quot;]/div[@class=&quot;container&quot;]/app-loader[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;loader-container on-table&quot;]/div[@class=&quot;lds-ellipsis&quot;]</value>
+      <webElementGuid>fff9c421-81a3-4716-b201-8aeaaa168ee6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
